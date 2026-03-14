@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/julian-granthum-a0b956210/
