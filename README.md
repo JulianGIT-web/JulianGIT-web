@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julian, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Julian, an <a href="https://www.linkedin.com/in/julian-granthum-a0b956210/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
