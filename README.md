@@ -5,8 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JulianGIT-web/osticket-prereqs)
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JulianGIT-web/configure-ad)
+
   
 
 <h2>🤳Connect with me:</h2>
